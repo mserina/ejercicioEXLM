@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+	background-image: url(imagenesHtml/fondo.jpg_large);
+}
+.imagenBanner1{
+	width: 59rem;
+}
+
+.titulo{
+	background-color: yellow;
+}
+
+
+.card-body{
+	background-color: orange;
+}
